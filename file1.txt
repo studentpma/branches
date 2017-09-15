@@ -1,7 +1,8 @@
 //#-----------------
 //input data
 
-
+int a = read("Enter first number");
+int b = read("Enter second number");
 
 //#-----------------
 //sum data
