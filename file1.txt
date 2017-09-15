@@ -7,7 +7,10 @@ int b = read("Enter second number");
 //#-----------------
 //sum data
 
-
+public int sum(int a, int b)
+{
+	return a+b;
+}
 
 
 //#-----------------
